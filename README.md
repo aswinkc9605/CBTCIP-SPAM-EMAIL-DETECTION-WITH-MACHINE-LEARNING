@@ -16,7 +16,7 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/aswinkc9605/CBTCIP-SPAM-EMAIL-DETECTION-WITH-MACHINE-LEARNING.git
-   cd spam-email-classifier
+   cd SPAM-EMAIL-DETECTION-WITH-MACHINE-LEARNING
    ```
 
 2. **Install dependencies:**
