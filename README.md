@@ -15,7 +15,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/aswinkc9605/CBTCIP-SPAM-EMAIL-DETECTION-WITH-MACHINE-LEARNING.git
+   git clone https://github.com/aswinkc9605/SPAM-EMAIL-DETECTION-WITH-MACHINE-LEARNING.git
    cd SPAM-EMAIL-DETECTION-WITH-MACHINE-LEARNING
    ```
 
